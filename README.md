@@ -1,0 +1,2 @@
+# lampadazinha-soft
+lampada
